@@ -11,7 +11,7 @@ input.addEventListener('keydown', (event) => {
             messageDiv.textContent = 'Неправильный пароль';
             messageDiv.style.color = 'red';
         } else {
-            messageDiv.textContent = 'Поздравляю!';
+            messageDiv.textContent = 'Спутник юности и взрослых путей. Помогает перенести трудности. Он путник с тобой, на двоих одна тень.';
             messageDiv.style.color = 'black';
         }
 

@@ -22,4 +22,5 @@ input[type="text" i] {
 .message {
     margin-top: 10px;
     margin-left: 40%;
+    width: 200px;
 }
